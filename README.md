@@ -35,17 +35,6 @@ It replaces weeks of manual administrative work by generating **conflict-free sc
 
 ---
 
-## 📸 Demo & Screenshots
-
-- Landing Page  
-- Admin Dashboard  
-- AI Generation Process  
-- Mobile PWA View  
-
-*(Screenshots can be added here later)*
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -71,3 +60,4 @@ It replaces weeks of manual administrative work by generating **conflict-free sc
 ```bash
 git clone https://github.com/21ambuj/Tima_Time_Table_Gen_AI.git
 cd Tima_Time_Table_Gen_AI
+
